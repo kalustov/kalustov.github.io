@@ -1,3 +1,3 @@
 # kalustov.github.io
 
-I'm hosted with GitHub Pages.
+Link to [2nd.md] file
