@@ -1,4 +1,4 @@
-Simple Markdown Site
+# Simple Markdown Site
 
 ## Known differences between Github and Github Pages
 
