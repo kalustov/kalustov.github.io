@@ -1,5 +1,3 @@
-# Simple Markdown Site
-
 ## Known differences between Github and Github Pages
 
 * No automatic links with Github Pages. The Github Markdown renderer can automatically detect a simple copy-pasted link and make it a clickable link. Github Pages doesn't propose a feature to reproduce that behavior, so you'll have to braces your links with the `[]()` syntax.
